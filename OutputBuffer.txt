@@ -1,0 +1,185 @@
+***** WELCOME TO COWIN PORTAL *****
+
+Do you want to?
+1.Check Vaccine Availability.
+2.Book a Slot for Vaccination.
+3.Exit.
+1
+Vaccine Availability for next 10 days is: 
+
+|_______________|_______________________________|
+|	Day	|	Number of Vaccines 	|
+|_______________|_______________________________|
+|	1	|	2			|
+|_______________|_______________________________|
+|	2	|	2			|
+|_______________|_______________________________|
+|	3	|	2			|
+|_______________|_______________________________|
+|	4	|	2			|
+|_______________|_______________________________|
+|	5	|	2			|
+|_______________|_______________________________|
+|	6	|	2			|
+|_______________|_______________________________|
+|	7	|	2			|
+|_______________|_______________________________|
+|	8	|	2			|
+|_______________|_______________________________|
+|	9	|	2			|
+|_______________|_______________________________|
+|	10	|	2			|
+|_______________|_______________________________|
+
+Do you want to?
+1.Check Vaccine Availability.
+2.Book a Slot for Vaccination.
+3.Exit.
+2
+
+Enter Number of People: 
+6
+
+Enter Details for Person 1: 
+
+Are you registering for first dose?
+y
+Enter Aadhar card number
+1234567890
+Enter Valid 12-Digit Aadhar card Number
+123456789012
+Are you a frontline worker?
+n
+Enter age
+60
+Any other medical condition?
+n
+Does your family have Covid History?
+n
+***REGISTRATION SUCCESSFUL!***
+
+
+Enter Details for Person 2: 
+
+Are you registering for first dose?
+y
+Enter Aadhar card number
+123456789013
+Are you a frontline worker?
+y
+***REGISTRATION SUCCESSFUL!***
+
+
+Enter Details for Person 3: 
+
+Are you registering for first dose?
+n
+Enter Aadhar card number
+123456789014
+***REGISTRATION SUCCESSFUL!***
+
+
+Enter Details for Person 4: 
+
+Are you registering for first dose?
+y
+Enter Aadhar card number
+123456789015
+Are you a frontline worker?
+n
+Enter age
+48
+Any other medical condition?
+n
+Does your family have Covid History?
+n
+<You are not eligible for vaccine right now>
+
+
+Enter Details for Person 5: 
+
+Are you registering for first dose?
+y
+Enter Aadhar card number
+123456789016
+Are you a frontline worker?
+n
+Enter age
+52
+Any other medical condition?
+y
+Does your family have Covid History?
+n
+***REGISTRATION SUCCESSFUL!***
+
+
+Enter Details for Person 6: 
+
+Are you registering for first dose?
+y
+Enter Aadhar card number
+123456789017
+Are you a frontline worker?
+n
+Enter age
+60
+Any other medical condition?
+y
+Does your family have Covid History?
+n
+***REGISTRATION SUCCESSFUL!***
+
+Allocation of Vaccination Slots: 
+
+|___________________|___________________________________________|_______________________________________|_______________________|___________________|
+|	Sr. no.	    |	Registration Number 			|	Aadhar Number  			|	Day Allocated	|	Date	    |
+|___________________|___________________________________________|_______________________________________|_______________________|___________________|
+|	1	    |	PNQ41250				|	123456789016			|	1		|  	1/06/2021   |
+|___________________|___________________________________________|_______________________________________|_______________________|___________________|
+|	2	    |	PNQ41251				|	123456789014			|	1		|  	1/06/2021   |
+|___________________|___________________________________________|_______________________________________|_______________________|___________________|
+|	3	    |	PNQ41252				|	123456789013			|	2		|  	2/06/2021   |
+|___________________|___________________________________________|_______________________________________|_______________________|___________________|
+|	4	    |	PNQ41253				|	123456789012			|	2		|  	2/06/2021   |
+|___________________|___________________________________________|_______________________________________|_______________________|___________________|
+|	5	    |	PNQ41254				|	123456789017			|	3		|  	3/06/2021   |
+|___________________|___________________________________________|_______________________________________|_______________________|___________________|
+
+Do you want to?
+1.Check Vaccine Availability.
+2.Book a Slot for Vaccination.
+3.Exit.
+1
+Vaccine Availability for next 10 days is: 
+
+|_______________|_______________________________|
+|	Day	|	Number of Vaccines 	|
+|_______________|_______________________________|
+|	1	|	0			|
+|_______________|_______________________________|
+|	2	|	0			|
+|_______________|_______________________________|
+|	3	|	1			|
+|_______________|_______________________________|
+|	4	|	2			|
+|_______________|_______________________________|
+|	5	|	2			|
+|_______________|_______________________________|
+|	6	|	2			|
+|_______________|_______________________________|
+|	7	|	2			|
+|_______________|_______________________________|
+|	8	|	2			|
+|_______________|_______________________________|
+|	9	|	2			|
+|_______________|_______________________________|
+|	10	|	2			|
+|_______________|_______________________________|
+
+Do you want to?
+1.Check Vaccine Availability.
+2.Book a Slot for Vaccination.
+3.Exit.
+3
+Exiting...
+THANK YOU!
